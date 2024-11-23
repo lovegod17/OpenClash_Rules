@@ -248,3 +248,16 @@ PROCESS-NAME,trojan-go
 PROCESS-NAME,uTorrent
 PROCESS-NAME,v2ray
 PROCESS-NAME,xray
+# ImmortalWrt 在线更新服务
+#DOMAIN-SUFFIX,sysupgrade.kyarucloud.moe
+# ImmortalWrt 软件仓库
+DOMAIN-SUFFIX,immortalwrt.org
+DOMAIN-SUFFIX,vsean.net
+# Windows 网络连接探测
+DOMAIN-SUFFIX,msftconnecttest.com
+DOMAIN-SUFFIX,msftncsi.com
+# 暴雪战网国服相关
+DOMAIN-SUFFIX,netease.com
+DOMAIN-SUFFIX,leihuo.netease.com
+# FinalShell
+IP-CIDR,5.5.5.5/32,no-resolve
