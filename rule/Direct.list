@@ -73,6 +73,7 @@ DOMAIN-SUFFIX,bt.byr.cn
 DOMAIN-SUFFIX,bt.neu6.edu.cn
 DOMAIN-SUFFIX,btschool.club
 DOMAIN-SUFFIX,cabdirect.org
+DOMAIN-SUFFIX,caiyunapp.com
 DOMAIN-SUFFIX,ccfbits.org
 DOMAIN-SUFFIX,cgpeers.com
 DOMAIN-SUFFIX,cinemageddon.net
@@ -155,6 +156,7 @@ DOMAIN-SUFFIX,privatehd.to
 DOMAIN-SUFFIX,pterclub.com
 DOMAIN-SUFFIX,pthome.net
 DOMAIN-SUFFIX,ptsbao.club
+DOMAIN-SUFFIX,reckfeng.com
 DOMAIN-SUFFIX,redacted.ch
 DOMAIN-SUFFIX,researchgate.net
 DOMAIN-SUFFIX,sciencemag.org
@@ -162,6 +164,7 @@ DOMAIN-SUFFIX,scopus.com
 DOMAIN-SUFFIX,sdbits.org
 DOMAIN-SUFFIX,skyey2.com
 DOMAIN-SUFFIX,soulvoice.club
+DOMAIN-SUFFIX,sourcepower.top
 DOMAIN-SUFFIX,springer.com
 DOMAIN-SUFFIX,springernature.com
 DOMAIN-SUFFIX,springsunday.net
@@ -185,6 +188,7 @@ DOMAIN-KEYWORD,aw-s.tripcdn.com
 DOMAIN-KEYWORD,ax1x.com
 DOMAIN-KEYWORD,bfzycdn.com
 DOMAIN-KEYWORD,buy.itunes.apple.com
+DOMAIN-KEYWORD,caiyunapp
 DOMAIN-KEYWORD,cnki.net
 DOMAIN-KEYWORD,ctc.qzs.qzone.qq.com
 DOMAIN-KEYWORD,deepdyve
@@ -212,6 +216,8 @@ DOMAIN-KEYWORD,wb_ad
 DOMAIN-KEYWORD,weather-adge.apple.com
 DOMAIN-KEYWORD,weather-edge.apple.com
 DOMAIN-KEYWORD,westlawchina
+DOMAIN-KEYWORD,zyfun
+DOMAIN-KEYWORD,zyplayer
 PROCESS-NAME,BaiduNetdisk_mac
 PROCESS-NAME,BitComet
 PROCESS-NAME,ClashX
@@ -248,6 +254,8 @@ PROCESS-NAME,trojan-go
 PROCESS-NAME,uTorrent
 PROCESS-NAME,v2ray
 PROCESS-NAME,xray
+PROCESS-NAME,zyfun
+PROCESS-NAME,zyplayer
 # ImmortalWrt 在线更新服务
 #DOMAIN-SUFFIX,sysupgrade.kyarucloud.moe
 # ImmortalWrt 软件仓库
