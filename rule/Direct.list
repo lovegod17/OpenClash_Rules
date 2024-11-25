@@ -216,8 +216,6 @@ DOMAIN-KEYWORD,wb_ad
 DOMAIN-KEYWORD,weather-adge.apple.com
 DOMAIN-KEYWORD,weather-edge.apple.com
 DOMAIN-KEYWORD,westlawchina
-DOMAIN-KEYWORD,zyfun
-DOMAIN-KEYWORD,zyplayer
 PROCESS-NAME,BaiduNetdisk_mac
 PROCESS-NAME,BitComet
 PROCESS-NAME,ClashX
@@ -254,8 +252,6 @@ PROCESS-NAME,trojan-go
 PROCESS-NAME,uTorrent
 PROCESS-NAME,v2ray
 PROCESS-NAME,xray
-PROCESS-NAME,zyfun
-PROCESS-NAME,zyplayer
 # ImmortalWrt 在线更新服务
 #DOMAIN-SUFFIX,sysupgrade.kyarucloud.moe
 # ImmortalWrt 软件仓库
