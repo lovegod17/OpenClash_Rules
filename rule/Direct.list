@@ -50,6 +50,7 @@ DOMAIN,vd.l.qq.com
 DOMAIN,vi.l.qq.com
 DOMAIN,vip.ffzyread.com
 DOMAIN,vip.imgffzy.com
+DOMAIN,www.sourcepower.top
 DOMAIN-SUFFIX,52pt.site
 DOMAIN-SUFFIX,acg.rip
 DOMAIN-SUFFIX,acm.org
@@ -164,7 +165,6 @@ DOMAIN-SUFFIX,scopus.com
 DOMAIN-SUFFIX,sdbits.org
 DOMAIN-SUFFIX,skyey2.com
 DOMAIN-SUFFIX,soulvoice.club
-DOMAIN-SUFFIX,sourcepower.top
 DOMAIN-SUFFIX,springer.com
 DOMAIN-SUFFIX,springernature.com
 DOMAIN-SUFFIX,springsunday.net
@@ -252,6 +252,8 @@ PROCESS-NAME,trojan-go
 PROCESS-NAME,uTorrent
 PROCESS-NAME,v2ray
 PROCESS-NAME,xray
+PROCESS-NAME,zyfun
+PROCESS-NAME,zyplayer
 # ImmortalWrt 在线更新服务
 #DOMAIN-SUFFIX,sysupgrade.kyarucloud.moe
 # ImmortalWrt 软件仓库
