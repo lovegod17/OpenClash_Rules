@@ -14,8 +14,6 @@ DOMAIN-SUFFIX,vsean.net
 DOMAIN-SUFFIX,apiurl.v1.mk
 # 机场域名
 DOMAIN-SUFFIX,dogsvip.site
-# 猫眼浏览器
-DOMAIN-SUFFIX,catsxp.com
 # 其他域名
 DOMAIN-SUFFIX,kit327.com
 # Windows 网络连接探测
@@ -37,14 +35,8 @@ DOMAIN-SUFFIX,psmartcloud.com
 # 暴雪战网国服相关
 DOMAIN-SUFFIX,netease.com
 DOMAIN-SUFFIX,leihuo.netease.com
-# PT 下载相关
-DOMAIN-KEYWORD,tracker
 # Akamai CDN
 DOMAIN-SUFFIX,akamaihd.net
-# FinalShell
-IP-CIDR,5.5.5.5/32,no-resolve
-# 国内 CDN
-DOMAIN-SUFFIX,cjjd19.com
 # UniGetUI
 DOMAIN-SUFFIX,powershellgallery.com
 # NTP Pool Project
