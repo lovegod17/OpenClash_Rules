@@ -5,11 +5,18 @@
 
 # EA Desktop 云同步
 #DOMAIN-SUFFIX,cloudsync-prod.s3.us-east-1.amazonaws.com
-# GooglePlay 相关
-DOMAIN-SUFFIX,services.googleapis.cn
-DOMAIN-SUFFIX,clientservices.googleapis.com
 # PS5 STUN
 DOMAIN-SUFFIX,stun.playstation.net
+# 嵌入式相关
+DOMAIN-SUFFIX,platformio.org
+DOMAIN-SUFFIX,arduino.cc
+# 国外IP查询网
+DOMAIN-SUFFIX,ipinfo.io
+DOMAIN-SUFFIX,ip.sb
+DOMAIN-SUFFIX,ip-api.com
+DOMAIN-SUFFIX,ipify.org
 # Cloudflare DNS
 IP-CIDR,1.1.1.1/32,no-resolve
 IP-CIDR,1.0.0.1/32,no-resolve
+# NextDNS
+DOMAIN-SUFFIX,nextdns.io
