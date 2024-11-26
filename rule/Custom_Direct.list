@@ -5,25 +5,6 @@
 # 部分域名可能和中国大陆域名列表存在重叠
 # 规则内容较少，不会影响性能，请放心使用
 
-# ImmortalWrt 在线更新服务
-DOMAIN-SUFFIX,sysupgrade.kyarucloud.moe
-# ImmortalWrt 软件仓库
-DOMAIN-SUFFIX,immortalwrt.org
-DOMAIN-SUFFIX,vsean.net
-# Windows 网络连接探测
-DOMAIN-SUFFIX,msftconnecttest.com
-DOMAIN-SUFFIX,msftncsi.com
-# 暴雪战网国际服下载节点
-DOMAIN-SUFFIX,blizzard.gcdn.cloudn.co.kr
-DOMAIN-SUFFIX,level3.blizzard.com
-DOMAIN-SUFFIX,kr.cdn.blizzard.com
-DOMAIN-SUFFIX,us.cdn.blizzard.com
-DOMAIN-SUFFIX,eu.cdn.blizzard.com
-# 微软飞行模拟 2020 游戏内下载 CDN
-DOMAIN,pf-cdn-content-prod.azureedge.net
-# 暴雪战网国服相关
-DOMAIN-SUFFIX,netease.com
-DOMAIN-SUFFIX,leihuo.netease.com
 # zyplayer
 DOMAIN,www.sourcepower.top
 PROCESS-NAME,zyfun
