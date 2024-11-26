@@ -10,8 +10,6 @@ DOMAIN-SUFFIX,sysupgrade.kyarucloud.moe
 # ImmortalWrt 软件仓库
 DOMAIN-SUFFIX,immortalwrt.org
 DOMAIN-SUFFIX,vsean.net
-# OpenWrt AI 站点
-DOMAIN-SUFFIX,openwrt.ai
 # 订阅转换
 DOMAIN-SUFFIX,apiurl.v1.mk
 # 机场域名
@@ -61,7 +59,9 @@ DOMAIN-SUFFIX,powershellgallery.com
 DOMAIN-SUFFIX,pool.ntp.org
 # Dell
 DOMAIN-SUFFIX,dell.com
-# Google Play
-DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 # 中国石油支付宝小程序
 DOMAIN-SUFFIX,95504test.com
+# zyplayer
+DOMAIN,www.sourcepower.top
+PROCESS-NAME,zyfun
+PROCESS-NAME,zyplayer
