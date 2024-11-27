@@ -39,8 +39,6 @@ DOMAIN-SUFFIX,netease.com
 DOMAIN-SUFFIX,leihuo.netease.com
 # PT 下载相关
 DOMAIN-KEYWORD,tracker
-# Akamai CDN
-DOMAIN-SUFFIX,akamaihd.net
 # FinalShell
 IP-CIDR,5.5.5.5/32,no-resolve
 # 国内 CDN
