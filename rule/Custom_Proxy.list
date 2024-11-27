@@ -10,6 +10,10 @@ DOMAIN-SUFFIX,stun.playstation.net
 # 嵌入式相关
 DOMAIN-SUFFIX,platformio.org
 DOMAIN-SUFFIX,arduino.cc
+# Akamai CDN
+DOMAIN-SUFFIX,akamaihd.net
+# Fastly CDN
+DOMAIN-SUFFIX,fastly.jsdelivr.net
 # 国外IP查询网
 DOMAIN-SUFFIX,ipinfo.io
 DOMAIN-SUFFIX,ip.sb
