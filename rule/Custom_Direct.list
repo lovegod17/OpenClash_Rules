@@ -32,10 +32,6 @@ IP-CIDR,8.251.135.126/32,no-resolve
 IP-CIDR,8.251.246.126/32,no-resolve
 # 微软飞行模拟 2020 游戏内下载 CDN
 DOMAIN,pf-cdn-content-prod.azureedge.net
-# 华硕
-DOMAIN-SUFFIX,asus.com
-# 微星
-DOMAIN-SUFFIX,msi.com
 # 暴雪战网国服相关
 DOMAIN-SUFFIX,netease.com
 DOMAIN-SUFFIX,leihuo.netease.com
@@ -43,7 +39,7 @@ DOMAIN-SUFFIX,leihuo.netease.com
 DOMAIN-KEYWORD,tracker
 # FinalShell
 IP-CIDR,5.5.5.5/32,no-resolve
-# 国内 CDN
+# 阿里国内 CDN
 DOMAIN-SUFFIX,cjjd19.com
 # UniGetUI
 DOMAIN-SUFFIX,powershellgallery.com
