@@ -51,5 +51,11 @@ DOMAIN-SUFFIX,dell.com
 DOMAIN-SUFFIX,jlcpcb.com
 # zyplayer
 DOMAIN,www.sourcepower.top
+DOMAIN-SUFFIX,sourcepower.top
+DOMAIN,zy.catni.cn
+DOMAIN-SUFFIX,catni.cn
+DOMAIN-KEYWORD,zyfun
+DOMAIN-KEYWORD,sourcepower
+DOMAIN-KEYWORD,zyplayer
 PROCESS-NAME,zyfun
 PROCESS-NAME,zyplayer
