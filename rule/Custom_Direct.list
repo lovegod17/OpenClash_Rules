@@ -17,6 +17,7 @@ DOMAIN-SUFFIX,mp.weixin.qq.com
 IP-CIDR,203.205.0.0/16,no-resolve
 IP-CIDR,157.255.0.0/16,no-resolve
 # 订阅转换
+DOMAIN-SUFFIX,dler.io
 DOMAIN-SUFFIX,apiurl.v1.mk
 # 机场域名
 DOMAIN-SUFFIX,dogsvip.site
