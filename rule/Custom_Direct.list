@@ -10,6 +10,12 @@
 # ImmortalWrt 软件仓库
 DOMAIN-SUFFIX,immortalwrt.org
 DOMAIN-SUFFIX,vsean.net
+#微信小程序
+DOMAIN-SUFFIX,servicewechat.com
+DOMAIN-SUFFIX,wx.qlogo.cn
+DOMAIN-SUFFIX,mp.weixin.qq.com
+IP-CIDR,203.205.0.0/16,no-resolve
+IP-CIDR,157.255.0.0/16,no-resolve
 # 订阅转换
 DOMAIN-SUFFIX,apiurl.v1.mk
 # 机场域名
