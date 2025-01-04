@@ -11,7 +11,9 @@
 DOMAIN-SUFFIX,immortalwrt.org
 DOMAIN-SUFFIX,vsean.net
 #豫纯订水小程序
+DOMAIN,shuiyuncang.com
 DOMAIN-SUFFIX,shuiyuncang.com
+DOMAIN-KEYWORD,shuiyuncang
 # 订阅转换
 DOMAIN-SUFFIX,dler.io
 DOMAIN-SUFFIX,apiurl.v1.mk
