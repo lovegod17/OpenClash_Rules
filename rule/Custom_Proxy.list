@@ -18,6 +18,3 @@ DOMAIN-SUFFIX,ip.sb
 DOMAIN-SUFFIX,ip-api.com
 DOMAIN-SUFFIX,ipify.org
 DOMAIN-SUFFIX,ipapi.is
-# Cloudflare DNS
-IP-CIDR,1.1.1.1/32,no-resolve
-IP-CIDR,1.0.0.1/32,no-resolve
