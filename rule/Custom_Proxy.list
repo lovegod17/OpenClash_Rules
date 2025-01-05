@@ -3,8 +3,10 @@
 # REPO: https://github.com/Aethersailor/Custom_OpenClash_Rules
 # 强制代理列表，来自个人收集
 
+#机场域名
+DOMAIN,speedcat.me
 # EA Desktop 云同步
-#DOMAIN-SUFFIX,cloudsync-prod.s3.us-east-1.amazonaws.com
+DOMAIN-SUFFIX,cloudsync-prod.s3.us-east-1.amazonaws.com
 # PS5 STUN
 DOMAIN-SUFFIX,stun.playstation.net
 # 嵌入式相关
