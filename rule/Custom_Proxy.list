@@ -5,6 +5,7 @@
 
 #机场域名
 DOMAIN,speedcat.me
+DOMAIN-SUFFIX,speedcat.me
 # EA Desktop 云同步
 DOMAIN-SUFFIX,cloudsync-prod.s3.us-east-1.amazonaws.com
 # PS5 STUN
