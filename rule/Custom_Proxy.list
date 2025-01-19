@@ -19,6 +19,7 @@ DOMAIN-SUFFIX,ipify.org
 DOMAIN-SUFFIX,ipapi.is
 DOMAIN-KEYWORD,surfsharkdns
 # 国外DNS
+DOMAIN-SUFFIX,public.dns.iij.jp
 IP-CIDR,101.101.101.101/32,no-resolve
 IP-CIDR,103.2.57.5/32,no-resolve
 IP-CIDR,103.2.57.6/32,no-resolve
