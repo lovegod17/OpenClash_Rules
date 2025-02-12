@@ -49,6 +49,14 @@ DOMAIN-SUFFIX,pool.ntp.org
 DOMAIN-SUFFIX,dell.com
 # 嵌入式相关
 DOMAIN-SUFFIX,jlcpcb.com
+# zyplayer
+DOMAIN,www.sourcepower.top
+DOMAIN-SUFFIX,sourcepower.top
+DOMAIN-KEYWORD,zyfun
+DOMAIN-KEYWORD,sourcepower
+DOMAIN-KEYWORD,zyplayer
+PROCESS-NAME,zyfun
+PROCESS-NAME,zyplayer
 # 其他
 DOMAIN-SUFFIX,h5dfsg.anwangjd1.com
 DOMAIN-KEYWORD,anwangjd1
