@@ -19,6 +19,7 @@ DOMAIN-SUFFIX,dler.io
 DOMAIN-SUFFIX,apiurl.v1.mk
 # 机场域名
 DOMAIN-SUFFIX,dogsvip.site
+DOMAIN-SUFFIX,scweb01.speedcat.la
 # Windows 网络连接探测
 DOMAIN-SUFFIX,msftconnecttest.com
 DOMAIN-SUFFIX,msftncsi.com
@@ -48,16 +49,6 @@ DOMAIN-SUFFIX,pool.ntp.org
 DOMAIN-SUFFIX,dell.com
 # 嵌入式相关
 DOMAIN-SUFFIX,jlcpcb.com
-# zyplayer
-DOMAIN,www.sourcepower.top
-DOMAIN-SUFFIX,sourcepower.top
-DOMAIN,zy.catni.cn
-DOMAIN-SUFFIX,catni.cn
-DOMAIN-KEYWORD,zyfun
-DOMAIN-KEYWORD,sourcepower
-DOMAIN-KEYWORD,zyplayer
-PROCESS-NAME,zyfun
-PROCESS-NAME,zyplayer
 # 其他
 DOMAIN-SUFFIX,h5dfsg.anwangjd1.com
 DOMAIN-KEYWORD,anwangjd1
